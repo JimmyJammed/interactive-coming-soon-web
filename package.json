@@ -1,0 +1,32 @@
+{
+  "name": "interactive-under-construction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive Under Construction \u2014 an animated 3D coming-soon page. A Falcon Forged digital product.",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run typecheck && vite build",
+    "typecheck": "tsc --noEmit",
+    "lint": "oxlint src tests",
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run lint && npm run typecheck && npm test && vite build",
+    "verify:product": "node scripts/verify-product.mjs",
+    "build:demo": "node scripts/build-demo.mjs"
+  },
+  "dependencies": {
+    "three": "0.183.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "@types/three": "0.183.1",
+    "oxlint": "^1.82.0",
+    "typescript": "5.9.3",
+    "vite": "8.0.16"
+  }
+}

@@ -1,0 +1,6 @@
+# Public marketing demo for Interactive Under Construction.
+# The demo itself should be indexed — it is how buyers find the product.
+User-agent: *
+Allow: /
+
+Sitemap: https://under-construction.demo.falconforged.com/sitemap.xml
