@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "path": "assets/desktop.webp",
+      "url": null,
+      "version": "2026-09-07-preview",
+      "sha256": "ecddcc79e533f23a7d30d9d4e08be5722bc76d91a38a4ba4f63e5880fe714dae",
+      "rights": "Falcon Forged Ventures LLC. Included for authorized portfolio display; no redistribution license granted.",
+      "origin": "Existing product preview screenshot supplied by the creator; captured 2026-09-07."
+    },
+    {
+      "path": "assets/mobile.webp",
+      "url": null,
+      "version": "2026-09-07-preview",
+      "sha256": "98e44103368c0d5cb73619024d9daa03bcb52ac56bec7d9c5eb82936d1d82ff0",
+      "rights": "Falcon Forged Ventures LLC. Included for authorized portfolio display; no redistribution license granted.",
+      "origin": "Existing product preview screenshot supplied by the creator; captured 2026-09-07."
+    },
+    {
+      "path": "assets/contact-dialog.webp",
+      "url": null,
+      "version": "2026-09-07-preview",
+      "sha256": "63d11eecd9662ffc2647847ce973643a4b42d5aa3bb9833f6a334d2efba5822f",
+      "rights": "Falcon Forged Ventures LLC. Included for authorized portfolio display; no redistribution license granted.",
+      "origin": "Existing product preview screenshot supplied by the creator; captured 2026-09-07."
+    }
+  ]
+}
