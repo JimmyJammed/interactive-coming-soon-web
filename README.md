@@ -1,5 +1,19 @@
 # Interactive Coming Soon — 3D Landing Page
 
+[![platform: Web](https://img.shields.io/badge/platform-Web-2563eb)](docs/GETTING_STARTED.md)
+[![language: TypeScript](https://img.shields.io/badge/language-TypeScript-3178c6?logo=typescript&logoColor=white)](package.json)
+[![integration: Three.js](https://img.shields.io/badge/integration-Three.js-444444?logo=threedotjs&logoColor=white)](docs/ARCHITECTURE.md)
+[![Package version](https://img.shields.io/github/package-json/v/JimmyJammed/interactive-coming-soon-web/main?label=package&color=blue)](package.json)
+[![Node: 22.18+](https://img.shields.io/badge/Node-22.18%2B-339933?logo=nodedotjs&logoColor=white)](package.json)
+[![license: source-available](https://img.shields.io/badge/license-source--available-a16207)](LICENSE.md)
+[![demo: view live](https://img.shields.io/badge/demo-view%20live-2563eb)](https://hickman.biz/portfolio/interactive-under-construction)
+
+[![unit tests: 29 passed (local)](https://img.shields.io/badge/unit%20tests-29%20passed%20%28local%29-2e7d32)](https://github.com/JimmyJammed/interactive-coming-soon-web/blob/37862481caaacbac6546555d02b41c7eb15d91a4/docs/VALIDATION.md)
+[![UI tests: Chromium smoke (local)](https://img.shields.io/badge/UI%20tests-Chromium%20smoke%20%28local%29-2e7d32)](https://github.com/JimmyJammed/interactive-coming-soon-web/blob/37862481caaacbac6546555d02b41c7eb15d91a4/docs/VALIDATION.md)
+[![build: verified locally](https://img.shields.io/badge/build-verified%20locally-2e7d32)](https://github.com/JimmyJammed/interactive-coming-soon-web/blob/37862481caaacbac6546555d02b41c7eb15d91a4/docs/VALIDATION.md)
+
+Test and build badges record local verification on **2026-09-14**, not live CI status. Click them for scope and results; the package badge reads `package.json`, not an npm release.
+
 Configurable TypeScript and Three.js coming-soon page with cursor-aware character motion, static fallbacks, and configurable contact behavior.
 
 **Source-available · Experimental · Web** · [Live demo](https://hickman.biz/portfolio/interactive-under-construction)
